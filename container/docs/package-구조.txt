@@ -20,6 +20,11 @@
 		
 	com.douzone.container.config.videosystem
 		|--- DVDPlayerConfig.java ***
+		
+	com.douzone.container.config.videosystem.mixing
+		|--- DVDConfig.java
+		|--- DVDPlayerConfig.java
+		|--- VideoSystemConfig.java
 
 
 [src/main/resources]
@@ -42,5 +47,12 @@
     com.douzone.container.videosystem
 		|--- DVDPlayerJavaConfigTest.java
 		|--- DVDPlayerXmlConfigTest.java *
+		
+	com.douzone.container.config.videosystem.mixing
+		|-- DVDPlayerMixingConfigTest01.java
+		|-- DVDPlayerMixingConfigTest02.java
+		
+		
+		
 		
 		
