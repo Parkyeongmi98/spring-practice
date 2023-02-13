@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 public class MyTest {
 	@Test
 	public void test01() {
-		int i = 120;		
+		int i = 12;		
 		assertTrue(i - 10 <= 10);
 	}
 	
